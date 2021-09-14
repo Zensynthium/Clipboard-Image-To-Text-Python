@@ -21,3 +21,4 @@ https://github.com/tesseract-ocr/tessdoc
 
 # License
 MIT
+Copyright (c) Zensynthium
